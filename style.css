@@ -5,3 +5,10 @@ body {
 	min-width: 960px;
 	min-height:100%;
 }
+
+#download {
+	background: -webkit-linear-gradient(110deg, #11ee22, #58f365) no-repeat 100% 100% fixed;
+	background: linear-gradient(110deg, #11ee22, #58f365) no-repeat 100% 100% fixed;
+	min-width:7.5%;
+	min-height:5%;
+}
